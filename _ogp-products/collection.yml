@@ -1,4 +1,5 @@
 collections:
   ogp-products:
     output: true
-    order: []
+    order:
+      - Pilot Website.md
