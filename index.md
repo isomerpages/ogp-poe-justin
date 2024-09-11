@@ -10,7 +10,6 @@ sections:
       title: Open Government Products
       subtitle: A one-stop-shop for all OPG Websites
       background: /images/hero-banner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Pilot Websites
