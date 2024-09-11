@@ -2,5 +2,6 @@ collections:
   ogp-products:
     output: true
     order:
+      - Maintenance Websites.md
       - Active Websites.md
       - Pilot Website.md
