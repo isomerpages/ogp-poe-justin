@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  open-government-products:
     output: true
     order:
       - folder-page.md
