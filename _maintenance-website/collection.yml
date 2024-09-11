@@ -1,0 +1,4 @@
+collections:
+  maintenance-website:
+    output: true
+    order: []
