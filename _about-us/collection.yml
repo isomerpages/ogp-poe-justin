@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Hi/About Us.md
       - Hi/.keep
