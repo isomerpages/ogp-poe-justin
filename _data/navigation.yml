@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Us
-    collection: example-folder
   - title: Open Government Products
-    collection: example-folder
-  - title: Contact us
-    collection: example-folder
+    collection: open-government-products
+  - title: Open Government Products
+    collection: open-government-products
+  - title: Open Government Products
+    collection: open-government-products
