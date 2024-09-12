@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Us
-    collection: about-us
   - title: Open Government Products
     collection: ogp-products
   - title: Other Resources
