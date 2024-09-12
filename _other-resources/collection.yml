@@ -1,5 +1,0 @@
-collections:
-  other-resources:
-    output: true
-    order:
-      - Other Resources.md
