@@ -1,0 +1,4 @@
+collections:
+  other-resources:
+    output: true
+    order: []
