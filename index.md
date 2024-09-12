@@ -10,17 +10,16 @@ sections:
       title: Open Government Products
       subtitle: A one-stop-shop for all OPG Websites
       background: /images/hero-banner.png
-      url: /contact-us/
       key_highlights:
         - title: Pilot Websites
           description: Test assist and implementation
-          url: ""
+          url: https://www.open.gov.sg/products/
         - title: Active Websites
           description: Websites up and running
-          url: https://gmail.com
+          url: https://www.open.gov.sg/products/
         - title: Maintenance Websites
           description: Websites in maintenance
-          url: ""
+          url: https://www.open.gov.sg/products/
   - infobar:
       title: Redeem CDC Vouchers
       description: A voucher system that helps government agencies create, issue and
