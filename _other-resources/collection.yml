@@ -1,4 +1,5 @@
 collections:
   other-resources:
     output: true
-    order: []
+    order:
+      - Other Resources.md
