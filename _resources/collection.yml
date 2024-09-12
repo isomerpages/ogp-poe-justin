@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - privacy.md
       - faq.md
       - Relevant Websites.md
