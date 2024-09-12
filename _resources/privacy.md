@@ -1,11 +1,46 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
 ### **Government Agency Privacy Statement**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+### **Privacy Statement**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+**1\. Commitment to Privacy** OGP is committed to protecting your privacy. This Privacy Statement outlines how we collect, use, and protect your personal information.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+**2\. Information Collection** We may collect personal information from you when you interact with our services, websites, or applications. This information may include:   
+
+*   Name
+*   Contact information (address, email, phone number)
+*   Identification numbers (e.g., passport, national ID)
+*   Financial information
+*   Usage data (e.g., website activity, IP address)
+
+**3\. Use of Information** We use your personal information to:
+
+*   Deliver public services
+*   Improve service delivery
+*   Conduct research and analysis
+*   Comply with legal and regulatory requirements
+
+**4. Data Security** We implement robust security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. These measures include:   
+
+*   Access controls
+*   Encryption
+*   Regular security assessments
+
+**5\. Data Sharing** We may share your personal information with other government agencies or authorized third parties for legitimate purposes, such as law enforcement or statistical analysis. We require these entities to maintain the confidentiality of your information.
+
+**6\. Your Rights** You have the right to:
+
+*   Access and correct your personal information
+*   Request the deletion of your personal information
+*   Object to certain data processing activities
+*   Lodge a complaint with a data protection authority
+
+**7\. Children's Privacy** We do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us to request its deletion.   
+
+**8\. Changes to the Statement** We may update this Privacy Statement from time to time. We will notify you of any significant changes by posting a notice on our website or through other appropriate channels.   
+
+**9\. Contact Information** If you have any questions about this Privacy Statement or our data practices, please contact us at \[email address\] or \[phone number\].
